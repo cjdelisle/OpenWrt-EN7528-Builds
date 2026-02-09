@@ -6,8 +6,7 @@ OpenWrt for EN7528 devices including:
 * DASAN H660GM-A
 * Generic initramfs image
 
-**WARNING:** This OS is *minimal*, there no support for USB,
-Ethernet or wifi yet. You can only communicate with it using UART.
-Drivers for these devices have not yet been written.
+**WARNING:** This OS is *minimal*, there is no support for USB yet.
+You can communicate with it using UART, Ethernet or WiFi.
 
-LAST BUILD: JAN 4 2026
+LAST BUILD: FEB 9 2026
