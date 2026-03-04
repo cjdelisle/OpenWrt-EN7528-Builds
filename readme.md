@@ -9,4 +9,4 @@ OpenWrt for EN7528 devices including:
 **WARNING:** This OS is *minimal*, there is no support for USB yet.
 You can communicate with it using UART, Ethernet or WiFi.
 
-LAST BUILD: FEB 9 2026
+LAST BUILD: MAR 4 2026
